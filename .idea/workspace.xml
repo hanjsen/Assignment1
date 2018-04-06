@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Program.java" description="showButton.addActionListener(new ShowItems());" line="81" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8637b089-7069-4d6d-b036-e92a296b6ef5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8637b089-7069-4d6d-b036-e92a296b6ef5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -445,12 +443,12 @@
       <workItem from="1522961357074" duration="2711000" />
       <workItem from="1522997227965" duration="2888000" />
       <workItem from="1523002668803" duration="409000" />
-      <workItem from="1523003743803" duration="2634000" />
+      <workItem from="1523003743803" duration="2758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91306000" />
+    <option name="totallyTimeSpent" value="91430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
