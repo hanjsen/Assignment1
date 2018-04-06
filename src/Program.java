@@ -205,9 +205,9 @@ public class Program {
     }
 
     class NewStockForm extends JPanel {
-        JTextField stockNameField = new JTextField(10);
-        JTextField stockQuantityField = new JTextField(5);
-        JTextField stockPriceField = new JTextField(5);
+        JTextField nameField = new JTextField(10);
+        JTextField quantityField = new JTextField(5);
+        JTextField priceField = new JTextField(5);
 
         public NewStockForm() {
             this.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
@@ -219,26 +219,26 @@ public class Program {
             JLabel priceLabel = new JLabel("Kurs: ");
 
             menuRow1.add(nameLabel);
-            menuRow1.add(stockNameField);
+            menuRow1.add(nameField);
             add(menuRow1);
             menuRow2.add(quantityLabel);
-            menuRow2.add(stockQuantityField);
+            menuRow2.add(quantityField);
             add(menuRow2);
             menuRow3.add(priceLabel);
-            menuRow3.add(stockPriceField);
+            menuRow3.add(priceField);
             add(menuRow3);
         }
 
         public String getName() {
-            return stockNameField.getText();
+            return nameField.getText();
         }
 
         public int getQuantity() {
-            return Integer.parseInt(stockQuantityField.getText());
+            return Integer.parseInt(quantityField.getText());
         }
 
         public double getPrice() {
-            return Double.parseDouble(stockPriceField.getText());
+            return Double.parseDouble(priceField.getText());
         }
 
     }

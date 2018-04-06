@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8637b089-7069-4d6d-b036-e92a296b6ef5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/Program.java" afterPath="$PROJECT_DIR$/src/Program.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="Program.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="334">
+              <caret line="206" column="38" lean-forward="false" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#main#0;class#Program#0" expanded="false" />
@@ -39,6 +40,7 @@
                 <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
                 <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
                 <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+                <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
                 <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
                 <element signature="e#7130#7131#0" expanded="true" />
                 <element signature="e#7180#7181#0" expanded="true" />
@@ -47,19 +49,19 @@
                 <element signature="e#7314#7315#0" expanded="true" />
                 <element signature="e#7371#7372#0" expanded="true" />
                 <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-                <element signature="e#8360#8361#0" expanded="true" />
-                <element signature="e#8415#8416#0" expanded="true" />
-                <element signature="e#8451#8452#0" expanded="true" />
-                <element signature="e#8528#8529#0" expanded="true" />
-                <element signature="e#8564#8565#0" expanded="true" />
-                <element signature="e#8640#8641#0" expanded="true" />
+                <element signature="e#8330#8331#0" expanded="true" />
+                <element signature="e#8380#8381#0" expanded="true" />
+                <element signature="e#8416#8417#0" expanded="true" />
+                <element signature="e#8488#8489#0" expanded="true" />
+                <element signature="e#8524#8525#0" expanded="true" />
+                <element signature="e#8595#8596#0" expanded="true" />
                 <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-                <element signature="e#9597#9598#0" expanded="true" />
-                <element signature="e#9647#9648#0" expanded="true" />
-                <element signature="e#9680#9681#0" expanded="true" />
-                <element signature="e#9757#9758#0" expanded="true" />
-                <element signature="e#9789#9790#0" expanded="true" />
-                <element signature="e#9857#9858#0" expanded="true" />
+                <element signature="e#9552#9553#0" expanded="true" />
+                <element signature="e#9602#9603#0" expanded="true" />
+                <element signature="e#9635#9636#0" expanded="true" />
+                <element signature="e#9712#9713#0" expanded="true" />
+                <element signature="e#9744#9745#0" expanded="true" />
+                <element signature="e#9812#9813#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -448,12 +450,12 @@
       <workItem from="1522961357074" duration="2711000" />
       <workItem from="1522997227965" duration="2888000" />
       <workItem from="1523002668803" duration="409000" />
-      <workItem from="1523003743803" duration="575000" />
+      <workItem from="1523003743803" duration="968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89247000" />
+    <option name="totallyTimeSpent" value="89640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -550,6 +552,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -558,19 +561,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -591,6 +594,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -599,19 +603,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -632,6 +636,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -640,19 +645,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -673,6 +678,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -681,19 +687,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -714,6 +720,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -722,19 +729,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -783,6 +790,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -791,19 +799,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -879,6 +887,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -887,19 +896,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -948,6 +957,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -956,19 +966,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1003,6 +1013,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -1011,19 +1022,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1115,8 +1126,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="334">
+          <caret line="206" column="38" lean-forward="false" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
@@ -1128,6 +1139,7 @@
             <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
             <element signature="e#7130#7131#0" expanded="true" />
             <element signature="e#7180#7181#0" expanded="true" />
@@ -1136,19 +1148,19 @@
             <element signature="e#7314#7315#0" expanded="true" />
             <element signature="e#7371#7372#0" expanded="true" />
             <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8360#8361#0" expanded="true" />
-            <element signature="e#8415#8416#0" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8528#8529#0" expanded="true" />
-            <element signature="e#8564#8565#0" expanded="true" />
-            <element signature="e#8640#8641#0" expanded="true" />
+            <element signature="e#8330#8331#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8416#8417#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8524#8525#0" expanded="true" />
+            <element signature="e#8595#8596#0" expanded="true" />
             <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9597#9598#0" expanded="true" />
-            <element signature="e#9647#9648#0" expanded="true" />
-            <element signature="e#9680#9681#0" expanded="true" />
-            <element signature="e#9757#9758#0" expanded="true" />
-            <element signature="e#9789#9790#0" expanded="true" />
-            <element signature="e#9857#9858#0" expanded="true" />
+            <element signature="e#9552#9553#0" expanded="true" />
+            <element signature="e#9602#9603#0" expanded="true" />
+            <element signature="e#9635#9636#0" expanded="true" />
+            <element signature="e#9712#9713#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9812#9813#0" expanded="true" />
           </folding>
         </state>
       </provider>
