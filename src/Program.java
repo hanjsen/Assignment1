@@ -80,6 +80,8 @@ public class Program {
 
             east.setLayout(new BoxLayout(east, 1));
 
+            /** GIT TEST **/
+            
             display = new JTextArea();
             display.setEditable(false);
             JScrollPane scrollPane = new JScrollPane(display);
