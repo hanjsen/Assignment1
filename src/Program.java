@@ -169,6 +169,7 @@ public class Program {
         }
     }
 
+    // Move Forms to own files?
     class NewJewelryForm extends JPanel {
         JTextField nameField = new JTextField(10);
         JTextField gemField = new JTextField(5);
