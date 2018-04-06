@@ -5,8 +5,8 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 public class Program {
-    private ArrayList<Valuable> registerOfValuables = new ArrayList<>();
 
+    private ArrayList<Valuable> registerOfValuables = new ArrayList<>();
 
     public static void main(String[] args) {
         Program program = new Program();
@@ -86,6 +86,7 @@ public class Program {
             setDefaultCloseOperation(EXIT_ON_CLOSE);
             setSize(600, 350);
             setVisible(true);
+
         }
 
         class ShowItems implements ActionListener {
@@ -167,6 +168,7 @@ public class Program {
                 }
             }
         }
+
     }
 
     class NewJewelryForm extends JPanel {
