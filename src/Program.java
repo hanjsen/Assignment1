@@ -119,7 +119,7 @@ public class Program {
             }
 
             private void addJewelry() {
-                NewJewelryForm newItem = new NewJewelryForm();
+                JewelryForm newItem = new JewelryForm();
                 int selection = JOptionPane.showConfirmDialog(GUI.this, newItem, "Nytt smycke", JOptionPane.OK_CANCEL_OPTION);
                 if (selection != JOptionPane.OK_OPTION) {
                     return;
@@ -132,7 +132,7 @@ public class Program {
             }
 
             private void addStock() {
-                NewStockForm newStock = new NewStockForm();
+                StockForm newStock = new StockForm();
                 int selection = JOptionPane.showConfirmDialog(GUI.this, newStock, "Ny aktie", JOptionPane.OK_CANCEL_OPTION);
                 if (selection != JOptionPane.OK_OPTION) {
                     return;
@@ -145,7 +145,7 @@ public class Program {
             }
 
             private void addDevice() {
-                NewDeviceForm newDevice = new NewDeviceForm();
+                DeviceForm newDevice = new DeviceForm();
                 int selection = JOptionPane.showConfirmDialog(GUI.this, newDevice, "Ny apparat", JOptionPane.OK_CANCEL_OPTION);
                 if (selection != JOptionPane.OK_OPTION) {
                     return;
@@ -170,118 +170,4 @@ public class Program {
         }
 
     }
-
-    // Move Forms to own files?
-    class NewJewelryForm extends JPanel {
-        JTextField nameField = new JTextField(10);
-        JTextField gemField = new JTextField(5);
-        JCheckBox materialField = new JCheckBox("Av guld");
-
-        NewJewelryForm() {
-            this.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
-            JPanel menuRow1 = new JPanel();
-            JPanel menuRow2 = new JPanel();
-            JPanel menuRow3 = new JPanel();
-            JLabel nameLabel = new JLabel("Namn: ");
-            JLabel gemsLabel = new JLabel("Ädelstenar: ");
-            menuRow1.add(nameLabel);
-            menuRow1.add(nameField);
-            add(menuRow1);
-            menuRow2.add(gemsLabel);
-            menuRow2.add(gemField);
-            add(menuRow2);
-            menuRow3.add(materialField);
-            add(menuRow3);
-        }
-
-        public String getName() {
-            return nameField.getText();
-        }
-
-        public int getGems() {
-            return Integer.parseInt(gemField.getText());
-        }
-
-        public boolean isGold() {
-            return materialField.isSelected();
-        }
-    }
-
-    class NewStockForm extends JPanel {
-        JTextField nameField = new JTextField(10);
-        JTextField quantityField = new JTextField(5);
-        JTextField priceField = new JTextField(5);
-
-        public NewStockForm() {
-            this.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
-            JPanel menuRow1 = new JPanel();
-            JPanel menuRow2 = new JPanel();
-            JPanel menuRow3 = new JPanel();
-            JLabel nameLabel = new JLabel("Namn: ");
-            JLabel quantityLabel = new JLabel("Antal: ");
-            JLabel priceLabel = new JLabel("Kurs: ");
-
-            menuRow1.add(nameLabel);
-            menuRow1.add(nameField);
-            add(menuRow1);
-            menuRow2.add(quantityLabel);
-            menuRow2.add(quantityField);
-            add(menuRow2);
-            menuRow3.add(priceLabel);
-            menuRow3.add(priceField);
-            add(menuRow3);
-        }
-
-        public String getName() {
-            return nameField.getText();
-        }
-
-        public int getQuantity() {
-            return Integer.parseInt(quantityField.getText());
-        }
-
-        public double getPrice() {
-            return Double.parseDouble(priceField.getText());
-        }
-
-    }
-
-    class NewDeviceForm extends JPanel {
-        JTextField nameField = new JTextField(10);
-        JTextField purchasePriceField = new JTextField(5);
-        JTextField wearField = new JTextField(5);
-
-        NewDeviceForm() {
-            this.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
-            JPanel menuRow1 = new JPanel();
-            JPanel menuRow2 = new JPanel();
-            JPanel menuRow3 = new JPanel();
-            JLabel nameLabel = new JLabel("Namn: ");
-            JLabel priceLabel = new JLabel("Pris: ");
-            JLabel wearLabel = new JLabel("Slitage: ");
-
-            menuRow1.add(nameLabel);
-            menuRow1.add(nameField);
-            add(menuRow1);
-            menuRow2.add(priceLabel);
-            menuRow2.add(purchasePriceField);
-            add(menuRow2);
-            menuRow3.add(wearLabel);
-            menuRow3.add(wearField);
-            add(menuRow3);
-        }
-
-        public String getName() {
-            return nameField.getText();
-        }
-
-        public int getPrice() {
-            return Integer.parseInt(purchasePriceField.getText());
-        }
-
-        public int getWear() {
-            return Integer.parseInt(wearField.getText());
-        }
-    }
-
 }

@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/Program.java" description="showButton.addActionListener(new ShowItems());" line="81" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8637b089-7069-4d6d-b036-e92a296b6ef5" name="Default" comment="" />
+    <list default="true" id="8637b089-7069-4d6d-b036-e92a296b6ef5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/ValuableRegister/Program$NewDeviceForm.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ValuableRegister/Program$NewJewelryForm.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/ValuableRegister/Program$NewStockForm.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" afterPath="$PROJECT_DIR$/src/Program.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,36 +29,61 @@
       <file leaf-file-name="Program.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#main#0;class#Program#0" expanded="false" />
                 <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+                <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
                 <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-                <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-                <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-                <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-                <element signature="e#8364#8365#0" expanded="true" />
-                <element signature="e#8414#8415#0" expanded="true" />
-                <element signature="e#8450#8451#0" expanded="true" />
-                <element signature="e#8522#8523#0" expanded="true" />
-                <element signature="e#8558#8559#0" expanded="true" />
-                <element signature="e#8629#8630#0" expanded="true" />
-                <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-                <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-                <element signature="e#9586#9587#0" expanded="true" />
-                <element signature="e#9636#9637#0" expanded="true" />
-                <element signature="e#9669#9670#0" expanded="true" />
-                <element signature="e#9746#9747#0" expanded="true" />
-                <element signature="e#9778#9779#0" expanded="true" />
-                <element signature="e#9846#9847#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeviceForm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DeviceForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding>
+                <element signature="method#DeviceForm#0;class#DeviceForm#0" expanded="false" />
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StockForm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StockForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1052#1053#0" expanded="true" />
+                <element signature="e#1115#1116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JewelryForm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JewelryForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="method#JewelryForm#0;class#JewelryForm#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -107,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/Device.java" />
         <option value="$PROJECT_DIR$/src/Run.java" />
         <option value="$PROJECT_DIR$/src/ItemGenerator.java" />
+        <option value="$PROJECT_DIR$/src/DeviceForm.java" />
+        <option value="$PROJECT_DIR$/src/StockForm.java" />
         <option value="$PROJECT_DIR$/src/JewelryForm.java" />
         <option value="$PROJECT_DIR$/src/Program.java" />
       </list>
@@ -443,12 +475,12 @@
       <workItem from="1522961357074" duration="2711000" />
       <workItem from="1522997227965" duration="2888000" />
       <workItem from="1523002668803" duration="409000" />
-      <workItem from="1523003743803" duration="2758000" />
+      <workItem from="1523003743803" duration="3087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91430000" />
+    <option name="totallyTimeSpent" value="91759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -524,7 +556,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -537,30 +569,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -574,67 +584,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI.java" />
-    <entry file="file://$PROJECT_DIR$/src/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#Program#0" expanded="false" />
-            <element signature="method#runProgram#0;class#Program#0" expanded="false" />
-            <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -648,30 +599,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -685,30 +614,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -750,30 +657,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -842,30 +727,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -907,30 +770,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -958,30 +799,8 @@
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1073,44 +892,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JewelryForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="method#JewelryForm#0;class#JewelryForm#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StockForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeviceForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="method#DeviceForm#0;class#DeviceForm#0" expanded="false" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#main#0;class#Program#0" expanded="false" />
             <element signature="method#runProgram#0;class#Program#0" expanded="false" />
+            <element signature="method#GUI#0;class#GUI#0;class#Program#0" expanded="false" />
             <element signature="class#ShowItems#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addJewelry#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addStock#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="method#addDevice#0;class#AddItemMenu#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#MarketCrash#0;class#GUI#0;class#Program#0" expanded="false" />
-            <element signature="class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewJewelryForm#0;class#NewJewelryForm#0;class#Program#0" expanded="false" />
-            <element signature="class#NewStockForm#0;class#Program#0" expanded="false" />
-            <element signature="e#8364#8365#0" expanded="true" />
-            <element signature="e#8414#8415#0" expanded="true" />
-            <element signature="e#8450#8451#0" expanded="true" />
-            <element signature="e#8522#8523#0" expanded="true" />
-            <element signature="e#8558#8559#0" expanded="true" />
-            <element signature="e#8629#8630#0" expanded="true" />
-            <element signature="class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="method#NewDeviceForm#0;class#NewDeviceForm#0;class#Program#0" expanded="false" />
-            <element signature="e#9586#9587#0" expanded="true" />
-            <element signature="e#9636#9637#0" expanded="true" />
-            <element signature="e#9669#9670#0" expanded="true" />
-            <element signature="e#9746#9747#0" expanded="true" />
-            <element signature="e#9778#9779#0" expanded="true" />
-            <element signature="e#9846#9847#0" expanded="true" />
           </folding>
         </state>
       </provider>
